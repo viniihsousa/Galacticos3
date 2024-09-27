@@ -58,20 +58,20 @@ Valores
 |NOME | FUNÇÃO | LINKEDIN | IDENTIFICAÇÃO |
 |-----|--------|----------|---------------|
 | Fernando Batistela  | Product Owner | [LINKEDIN](https://www.linkedin.com/in/fernando-batistella-519167288/) | ![image](https://github.com/GalacticosAPI/.github/assets/141978742/a91f8d4c-9a63-4012-9145-020805da3ae4)
-| Paulo Ribeiro | Desenvolvedor | [LINKEDIN](https://www.linkedin.com/in/paulo-ribeiro-74b043244/) | ![image](https://github.com/GalacticosAPI/.github/assets/141978742/5c5687b2-4a76-4f31-bf8e-a2d58dc59ae5)
 | Pedro Augusto | Desenvolvedor | [LINKEDIN](https://www.linkedin.com/in/pedro-augusto-97078b287/) | ![image](https://github.com/GalacticosAPI/.github/assets/141978742/bdab95b3-9576-4d40-90e2-535a40dc99f2)
+| Tassia  | Desenvolvedor | [LINKEDIN](https://www.linkedin.com/in/pedro-augusto-97078b287/) | ![image](https://github.com/GalacticosAPI/.github/assets/141978742/bdab95b3-9576-4d40-90e2-535a40dc99f2)
 | Vinicius Moreira | Desenvolvedor | [LINKEDIN](https://www.linkedin.com/in/vinicius-moreira-de-sousa-146359287/) | ![image](https://github.com/GalacticosAPI/.github/assets/141978742/1122e447-040c-4a46-b0a1-1fea47b46b22)
 
 
 
 ## PRAZOS
 
-> - [x] Kick-off do Projeto -   11/03/2024 | [Apresentação](https://github.com/GalacticosAPI/.github/files/14984738/Kick-off.API.2N.pptx) |
-> - [x] Entrega Sprint 00   -   15/04/2024 | [Relatório](https://github.com/GalacticosAPI/.github/files/15226132/Relatorio.Sprint.1.pdf)  |
-> - [x] Entrega Sprint 01   -   06/05/2024 | [Relatório](https://github.com/GalacticosAPI/.github/files/15226137/Relatorio.Sprint.2.pdf)  |
-> - [x] Entrega Sprint 02   -   27/05/2024 | [Relatório](https://github.com/GalacticosAPI/.github/files/15461711/Relatorio.Sprint.3.pdf)  |
-> - [ ] Entrega Sprint 03   -   17/06/2024 | [Relatório](https://github.com/user-attachments/files/15878372/Relatorio.4.-.PDF.pdf)        |
-> - [ ] Feira de Soluções   -   27/06/2024 | [Feira de Soluções - Galácticos](https://github.com/user-attachments/files/15878414/Feira.de.Solucoes.-.Galacticos.pptx)
+> - [x] Kick-off do Projeto -   11/03/2024 | [Apresentação](https://github.com/user-attachments/files/17169970/4.-.Kick-off.API.3.pdf) |
+> - [ ] Entrega Sprint 00   -   15/04/2024 | [Relatório](https://github.com/user-attachments/files/17169662/Relatorio.sprint.1.api.3sem.docx) |
+> - [ ] Entrega Sprint 01   -   06/05/2024 | 
+> - [ ] Entrega Sprint 02   -   27/05/2024 | 
+> - [ ] Entrega Sprint 03   -   17/06/2024 | 
+> - [ ] Feira de Soluções   -   27/06/2024 | 
 
 
 
