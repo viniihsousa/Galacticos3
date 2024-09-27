@@ -1,7 +1,6 @@
 <p align = "center">
  
-# ANÁLISE GEOGRÁFICA DOS FLUXOS DE TRANSPORTES - ORIGEM AO DESTINO
-
+# ANÁLISE DE PRODUTIVIDADE DE VEÍCULOS - OTIMIZAÇÃO DE DISTRIBUIÇÃO E CUSTO DE ROTAS
 
 Projeto API - 3° Semestre - Logística 2024, baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos.
 
@@ -22,10 +21,10 @@ Projeto API - 3° Semestre - Logística 2024, baseado na metodologia ágil SCRUM
 ## PROJETO
 
 - ### Introdução
-     Mapeamento de dados coletados pelo site do governo, possibilitando a análise do fluxo de transporte de mercadorias exportadas, análise geográfica do fluxo de exportações do estado de São Paulo.
+     Mapeamento de dados coletados, possibilitando a análise do fluxo de transporte de mercadorias, análise geográfica do fluxo de transporte, otimização de rotas e custos logísticos.
 
 - ### Objetivo
-     Desenvolvimento de uma interface gráfica, permitindo que o cliente possa ter uma análise visual, interativa e ágil do fluxo de dados disponibilizado. Tendo em base, os dados retirados do ComexStat (base de dados do governo), e por meio destes criar uma interface que auxilie e melhore a análise acertiva dos modais utilizados nas movimentações internacionais de cargas e criar um modelo de previsibilidade de movimentação futura no estado de SP.
+     O objetivo deste projeto é realizar uma análise detalhada da produtividade dos veículos, otimizar os processos de distribuição e reduzir os custos associados às rotas de transporte da empresa embarcadora de carga. Através da coleta e interpretação de dados operacionais, pretendemos desenvolver um modelo que permita identificar ineficiências, propor melhorias nas rotas e, consequentemente, aumentar a competitividade da empresa no mercado. Além disso, almejamos fornecer recomendações práticas que possibilitem a implementação de soluções viáveis e sustentáveis, promovendo uma logística mais eficiente e rentável.
 
 - ### Projeto (API) 
      Projeto pedagógico alicerçado na Metodologia API para ensino-aprendizado focado no desenvolvimento de competências e fundamentada nos pilares de aprendizado com problemas reais (RPBL), validação externa e mentalidade ágil. 
@@ -58,7 +57,7 @@ Valores
 |-----|--------|----------|---------------|
 | Fernando Batistela  | Product Owner | [LINKEDIN](https://www.linkedin.com/in/fernando-batistella-519167288/) | ![image](https://github.com/GalacticosAPI/.github/assets/141978742/a91f8d4c-9a63-4012-9145-020805da3ae4)
 | Pedro Augusto | Scrum Master | [LINKEDIN](https://www.linkedin.com/in/pedro-augusto-97078b287/) | ![image](https://github.com/GalacticosAPI/.github/assets/141978742/bdab95b3-9576-4d40-90e2-535a40dc99f2)
-| Tassia  | Desenvolvedor | [LINKEDIN](https://www.linkedin.com/in/pedro-augusto-97078b287/) | ![image](https://github.com/GalacticosAPI/.github/assets/141978742/bdab95b3-9576-4d40-90e2-535a40dc99f2)
+| Tassia  | Desenvolvedor | [LINKEDIN] | ![image](https://github.com/GalacticosAPI/.github/assets/141978742/bdab95b3-9576-4d40-90e2-535a40dc99f2) | ![Image](https://github.com/user-attachments/assets/9b2c3841-3b96-4a61-994d-cd885279d7f3)
 | Vinicius Moreira | Desenvolvedor | [LINKEDIN](https://www.linkedin.com/in/vinicius-moreira-de-sousa-146359287/) | ![image](https://github.com/GalacticosAPI/.github/assets/141978742/1122e447-040c-4a46-b0a1-1fea47b46b22)
 
 
