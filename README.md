@@ -12,8 +12,7 @@ Projeto API - 3° Semestre - Logística 2024, baseado na metodologia ágil SCRUM
  + [EMPRESA](#empresa)
  + [EQUIPE](#equipe)
  + [PRAZOS](#prazos)
- + [BACKLOG DAS SPRINTS](#backlog-das-sprints)
- + [BURNDOWN DAS SPRINTS](#burndown-das-sprints)
+ + [BACKLOG DO PRODUTO](#backlog-do-produto)
  + [FUNCIONALIDADES E REGISTROS DAS SPRINTS](#funcionalidades-e-registros-das-sprints)
  + [REGRAS DE NEGÓCIO](#regras-de-negócio)
  + [COMPETÊNCIAS DESENVOLVIDAS](#competências-desenvolvidas)
@@ -58,7 +57,7 @@ Valores
 |NOME | FUNÇÃO | LINKEDIN | IDENTIFICAÇÃO |
 |-----|--------|----------|---------------|
 | Fernando Batistela  | Product Owner | [LINKEDIN](https://www.linkedin.com/in/fernando-batistella-519167288/) | ![image](https://github.com/GalacticosAPI/.github/assets/141978742/a91f8d4c-9a63-4012-9145-020805da3ae4)
-| Pedro Augusto | Desenvolvedor | [LINKEDIN](https://www.linkedin.com/in/pedro-augusto-97078b287/) | ![image](https://github.com/GalacticosAPI/.github/assets/141978742/bdab95b3-9576-4d40-90e2-535a40dc99f2)
+| Pedro Augusto | Scrum Master | [LINKEDIN](https://www.linkedin.com/in/pedro-augusto-97078b287/) | ![image](https://github.com/GalacticosAPI/.github/assets/141978742/bdab95b3-9576-4d40-90e2-535a40dc99f2)
 | Tassia  | Desenvolvedor | [LINKEDIN](https://www.linkedin.com/in/pedro-augusto-97078b287/) | ![image](https://github.com/GalacticosAPI/.github/assets/141978742/bdab95b3-9576-4d40-90e2-535a40dc99f2)
 | Vinicius Moreira | Desenvolvedor | [LINKEDIN](https://www.linkedin.com/in/vinicius-moreira-de-sousa-146359287/) | ![image](https://github.com/GalacticosAPI/.github/assets/141978742/1122e447-040c-4a46-b0a1-1fea47b46b22)
 
@@ -78,7 +77,7 @@ Valores
 ### Cronograma
 Ao clicar você será redirecionado ao cronograma detalhado desse projeto no Jirasoftware, onde é possivel encontar as datas das atividades, o responsável por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
 
-#### [Cronograma das Sprints](https://galacts.atlassian.net/jira/software/projects/GL/boards/1/backlog)
+#### [Cronograma das Sprints](https://galacts.atlassian.net/jira/core/projects/A3G/list)
 
 
 ## BACKLOG DO PRODUTO
@@ -96,7 +95,7 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto no Jir
 
 Apresentação do MVP:<p align="center">
 
-![GIF DO DASH](https://github.com/GalacticosAPI/.github/assets/141978742/6378ec23-1ff8-4c12-9c14-480592dc8677)
+![GIF DO DASH]
 
 
 </p>
@@ -107,6 +106,8 @@ Apresentação do MVP:<p align="center">
 - Desenvolvimento de estrutura relacional de tabelas com base nos dados disponibilizados.
 
 - Criação de um Dashboard intuitivo para visualização dos dados apresentados.
+
+- Utilização de programação em SQL e Python
 
 - Documentação no GitHub e gestão do projeto desenvolvida no JIRA SOFTWARE
 
