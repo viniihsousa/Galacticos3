@@ -65,7 +65,7 @@ Valores
 ## PRAZOS
 
 > - [x] Kick-off do Projeto -   11/03/2024 | [Apresentação](https://github.com/user-attachments/files/17169970/4.-.Kick-off.API.3.pdf) |
-> - [ ] Entrega Sprint 00   -   15/04/2024 | [Relatório](https://github.com/user-attachments/files/17169662/Relatorio.sprint.1.api.3sem.docx) |
+> - [x] Entrega Sprint 00   -   15/04/2024 | [Relatório](https://github.com/user-attachments/files/17169662/Relatorio.sprint.1.api.3sem.docx) |
 > - [ ] Entrega Sprint 01   -   06/05/2024 | 
 > - [ ] Entrega Sprint 02   -   27/05/2024 | 
 > - [ ] Entrega Sprint 03   -   17/06/2024 | 
@@ -88,6 +88,13 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto no Jir
 - [x] Desenvolver linha de tendência para as cargas identificadas
 - [x] Criar modelo de previsão por meio de suavização exponencial que permita identificar as movimentações futuras de cargas
 - [x] Desenvolver Dashboard de fluxo de cargas exportadas de SP
+
+![custo_un_transp](https://github.com/user-attachments/assets/d10c9296-ec36-4aa0-a8f4-802766769ad5)
+![graficosbi 3](https://github.com/user-attachments/assets/2f6cd353-f06f-4529-90c2-a79f2eae8b08)
+![evol_custo_km](https://github.com/user-attachments/assets/545a8a0b-667f-4ff8-9f7d-e5e448e70989)
+![Prod_mes_veic](https://github.com/user-attachments/assets/5846b1ae-40ca-455a-bcbc-61fb9b81b5eb)
+
+
 
 
 ## FUNCIONALIDADES E REGISTROS DAS SPRINTS
