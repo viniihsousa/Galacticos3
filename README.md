@@ -57,7 +57,7 @@ Valores
 |-----|--------|----------|---------------|
 | Fernando Batistela  | Product Owner | [LINKEDIN](https://www.linkedin.com/in/fernando-batistella-519167288/) | ![image](https://github.com/GalacticosAPI/.github/assets/141978742/a91f8d4c-9a63-4012-9145-020805da3ae4)
 | Pedro Augusto | Scrum Master | [LINKEDIN](https://www.linkedin.com/in/pedro-augusto-97078b287/) | ![image](https://github.com/GalacticosAPI/.github/assets/141978742/bdab95b3-9576-4d40-90e2-535a40dc99f2)
-| Tassia  | Desenvolvedor | [LINKEDIN] | ![image](https://github.com/GalacticosAPI/.github/assets/141978742/bdab95b3-9576-4d40-90e2-535a40dc99f2) | ![Image](https://github.com/user-attachments/assets/9b2c3841-3b96-4a61-994d-cd885279d7f3)
+| Tassia  | Desenvolvedor | [LINKEDIN] | ![image](https://github.com/user-attachments/assets/4a4ef3f0-0ab6-41a8-bc38-a968e833cb1a) |
 | Vinicius Moreira | Desenvolvedor | [LINKEDIN](https://www.linkedin.com/in/vinicius-moreira-de-sousa-146359287/) | ![image](https://github.com/GalacticosAPI/.github/assets/141978742/1122e447-040c-4a46-b0a1-1fea47b46b22)
 
 
