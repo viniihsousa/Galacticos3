@@ -65,8 +65,8 @@ Valores
 ## PRAZOS
 
 > - [x] Kick-off do Projeto -   30/08/2024 | [Apresentação](https://github.com/user-attachments/files/17169970/4.-.Kick-off.API.3.pdf) |
-> - [x] Entrega Sprint 00   -   27/09/2024 | [Relatório](https://github.com/user-attachments/files/17169662/Relatorio.sprint.1.api.3sem.docx) |
-> - [ ] Entrega Sprint 01   -   18/10/2024 | [Relatório](https://github.com/user-attachments/files/17441426/relatorio.SPrint.1.-.3sem.pdf) |
+> - [x] Entrega Sprint 00   -   27/09/2024 | [Relatório](https://github.com/user-attachments/files/17441455/relatorio.SPrint.1.-.3sem.pdf) |
+> - [ ] Entrega Sprint 01   -   18/10/2024 | [Relatório](https://github.com/user-attachments/files/17441461/relatorio.sprint.2.-.3sem.pdf) |
 > - [ ] Entrega Sprint 02   -   08/11/2024 | 
 > - [ ] Entrega Sprint 03   -   29/11/2024 | 
 > - [ ] Feira de Soluções   -   12/12/2024 | 
