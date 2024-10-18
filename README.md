@@ -83,11 +83,11 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto no Jir
 
 - ### Epics do produto
 
-- [x] Identificar os modais utilizados nos trâmites internaciosnais de movimentação de cargas
-- [x] Desenhar a geografia do fluxo de exportação de cargas provenientes do estado de SP
-- [x] Desenvolver linha de tendência para as cargas identificadas
+- [x] Identificar as rotas de movimentações nacionais utilizadas nos dados
+- [x] Desenhar a geografia do fluxo de movimentação de cargas
+- [x] Desenvolver linha de tendência para os envios identificadas
 - [x] Criar modelo de previsão por meio de suavização exponencial que permita identificar as movimentações futuras de cargas
-- [x] Desenvolver Dashboard de fluxo de cargas exportadas de SP
+- [x] Desenvolver Dashboard de fluxo de cargas para otimização de origem e destino dos dados
 
 ![custo_un_transp](https://github.com/user-attachments/assets/d10c9296-ec36-4aa0-a8f4-802766769ad5)
 ![graficosbi 3](https://github.com/user-attachments/assets/2f6cd353-f06f-4529-90c2-a79f2eae8b08)
