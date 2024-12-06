@@ -98,8 +98,6 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto no Jir
 
 
 
-
-
 ## REGRAS DE NEGÓCIO
 
 - Desenvolvimento de estrutura relacional de tabelas com base nos dados disponibilizados.
@@ -158,7 +156,7 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto no Jir
 </p>
  
 
-- ### Metodologia Scrum:
+- ### Metodologia Scrum
 
 
 
