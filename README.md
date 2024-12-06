@@ -12,7 +12,6 @@ Projeto API - 3° Semestre - Logística 2024, baseado na metodologia ágil SCRUM
  + [EQUIPE](#equipe)
  + [PRAZOS](#prazos)
  + [BACKLOG DO PRODUTO](#backlog-do-produto)
- + [FUNCIONALIDADES E REGISTROS DAS SPRINTS](#funcionalidades-e-registros-das-sprints)
  + [REGRAS DE NEGÓCIO](#regras-de-negócio)
  + [COMPETÊNCIAS DESENVOLVIDAS](#competências-desenvolvidas)
  + [FERRAMENTAS UTILIZADAS](#ferramentas-utilizadas)
@@ -97,14 +96,8 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto no Jir
 
 
 
-## FUNCIONALIDADES E REGISTROS DAS SPRINTS
-
-Apresentação do MVP:<p align="center">
-
-![GIF DO DASH]
 
 
-</p>
 
 
 ## REGRAS DE NEGÓCIO
